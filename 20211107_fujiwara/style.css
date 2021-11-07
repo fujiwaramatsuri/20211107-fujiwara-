@@ -1,0 +1,354 @@
+.html {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: scroll;
+}
+.ue {
+  position: relative;
+  top: -24px;
+}
+.one {
+  display: block;
+  width: 800px;
+}
+.estra__img {
+  width: 10%;
+}
+.commit {
+  color: darkmagenta;
+  position: relative;
+  left: 200px;
+  top: 60px;
+  z-index: 1;
+}
+.growth {
+  color: cornflowerblue;
+}
+.seityou {
+  color: cornflowerblue;
+}
+.black {
+  position: relative;
+  top: -15px;
+  color: black;
+}
+.firstview__img {
+  position: absolute;
+  width: 550px;
+  right: 0;
+  z-index: 1;
+}
+.oll {
+  font-size: 65%;
+}
+.new {
+  text-align: left;
+  position: relative;
+  color: #8b00be;
+  top: 190px;
+  left: 130px;
+  font-family: 'Ceviche One', cursive;
+}
+.news {
+  text-align: left;
+  position: relative;
+  top: 190px;
+  left: 130px;
+  font-weight: bold;
+}
+.mar-10 {
+  margin-right: 20px;
+}
+.two {
+  width: 600px;
+  text-align: center;
+  display: block;
+  position: relative;
+  margin-top: 200px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  left: 100px;
+}
+.maru {
+  color: cornsilk;
+  background-color: darkmagenta;
+  border-radius: 30px;
+}
+.kasen {
+  text-decoration: underline;
+}
+/*.three {
+  display: block;
+  color: black;
+  box-sizing: border-box;
+  background-color: lightslategrey;
+  font-size: 14px;
+}*/
+.kab {
+  display: block;
+  position: relative;
+}
+.about {
+  text-align: center;
+  color: darkmagenta;
+  font-family: 'Ceviche One', cursive;
+}
+.tec {
+  text-align: center;
+  font-size: 20px;
+}
+.about__img {
+  display: block;
+  position: relative;
+  width: 50%;
+  margin-left: auto;
+  margin-top: -150px;
+}
+.glay {
+  background-color: lightslategrey;
+  border: #888888;
+}
+.flex__item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.practice__card {
+  width: 30%;
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
+  background-color: white;
+  border-radius: 10px;
+}
+
+.card__img img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.card__content {
+  padding: 15px 25px;
+}
+
+.card__ttl {
+  font-size: 12px;
+  margin-bottom: 30px;
+  font-weight: 400;
+}
+
+.card__cat {
+  padding: 5px 10px;
+  background: darkmagenta;
+  margin-bottom: 15px;
+  display: inline-block;
+  color: #fff;
+  font-size: 14px;
+  position: relative;
+  top: -205px;
+  right: 25px;
+  border-radius: 10px 0 0 0;
+}
+
+.tag {
+  font-size: 10px;
+  text-align: right;
+}
+
+.card__tag {
+  display: inline-block;
+  color: #008888;
+}
+
+.card__date {
+  display: inline-block;
+  margin-left: 20px;
+  color: #888888;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+table th,
+table td {
+  padding: 10px 0;
+  text-align: left;
+}
+
+table th {
+  background-color: #eee;
+}
+.table {
+  display: block;
+  width: 400px;
+}
+.recruit__img {
+  width: 500px;
+  position: relative;
+  right: 10px;
+  top: 95px;
+}
+.interview__img {
+  width: 500px;
+  position: relative;
+  left: 490px;
+  top: -131px;
+}
+.saiyou {
+  color: gainsboro;
+  display: block;
+  position: relative;
+  top: -260px;
+  left: 180px;
+  font-size: 30px;
+}
+.syain {
+  color: gainsboro;
+  display: block;
+  position: relative;
+  top: -307px;
+  left: 590px;
+  font-size: 30px;
+}
+.practice__btn {
+  width: 200px;
+  padding: 10px 0;
+  border-radius: 30px;
+  color: #fff;
+  background: linear-gradient(90deg, #ff5800, #8b00be);
+  text-align: center;
+  box-shadow: 0 5px 0  rgba(255, 0, 0, 0.2);
+  margin: 100px auto 0;
+  display: block;
+  position: relative;
+  top: -100px;
+}
+.background-color {
+  background-color: lightsteelblue;
+  margin-top: 20px;
+}
+.background-color2 {
+  background-color: lightsteelblue;
+  text-align: center;
+}.background-color3 {
+  background-color: lightsteelblue;
+  margin-top: 20px;
+}
+.center {
+text-align: center;
+}
+.TEXTAREA 
+{
+  text-align: center;
+  width: 800px;
+  position: relative;
+}*/
+.class_table {
+  width: 60%;
+  position: relative;
+  left: 180px;
+}
+.sbox1 {
+  display: block;
+  background-color:rgb(214, 3, 133);
+  width: 300px;
+  height: 200px;
+  left: 200px;
+  position: relative;
+}
+.sbox2 {
+  display: block;
+  position: relative;
+  background-color: blueviolet;
+  left: 300px;
+  height: 100px;
+  top: -246px;
+}
+.sbox3 {
+  position: relative;
+  background-color: burlywood;
+  left: 300px;
+  top: -268px;
+  height: 100px;
+}
+.kyouiku {
+  display: block;
+  text-align: center;
+  position: relative;
+  top: -20px;
+}
+.kyouiku2 {
+  display: block;
+  text-align: center;
+  position: relative;
+}
+.sanple {
+  position: relative;
+  top: -30px;
+  font-size: 13px;
+}
+.sanple2 {
+  text-align: right;
+  position: relative;
+  top: -20px;
+  font-size: 13px;
+}
+.zu1__img {
+  position: relative;
+  width: 30%;
+  left: 110px;
+}
+.botan {
+  display: block;
+  text-align: center;
+  background: white;
+  width: 120px;
+  left: 370px;
+  position: relative;
+  padding: 10px 10px;
+  border-radius: 15px;
+  color: darkmagenta;
+  border-color: darkmagenta;
+}
+.service {
+  text-align: left;
+  position: relative;
+  color: #8b00be;
+  font-family: 'Ceviche One', cursive;
+  left: 200px;
+}
+.blog {
+  text-align: left;
+  position: relative;
+  color: #8b00be;
+  font-family: 'Ceviche One', cursive;
+}
+.company {
+  text-align: left;
+  position: relative;
+  color: #8b00be;
+  font-family: 'Ceviche One', cursive;
+  left: 240px;
+  margin-top: 40px;
+}
+.service2 {
+  font-weight: bold;
+  position: relative;
+  left: 200px;
+}
+.blog2 {
+  font-weight: bold;
+}
+.company2 {
+  font-weight: bold;
+  position: relative;
+  left: 240px;
+  margin-bottom: 15px;
+}
+.kaisya {
+  display: block;
+  width: 50%;
+  position: relative;
+  left: 240px;
+}
