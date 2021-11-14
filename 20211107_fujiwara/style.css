@@ -2,13 +2,16 @@
   padding: 0;
   margin: 0;
 }
-.html {
+/* {
+ border:1px solid red !important;
+}*/
+/*.html {
   display: block;
   width: 1000px;
   margin-left: auto;
   margin-right: auto;
   overflow: scroll;
-}
+}*/
 .ue {
   position: relative;
   top: -24px;
@@ -82,13 +85,6 @@
 .kasen {
   text-decoration: underline;
 }
-/*.three {
-  display: block;
-  color: black;
-  box-sizing: border-box;
-  background-color: lightslategrey;
-  font-size: 14px;
-}*/
 .kab {
   display: block;
   position: absolute;
@@ -127,14 +123,8 @@
   flex-wrap: wrap;
   justify-content: space-around /*space-between*/;
 }
-/*.mini{
-  display: flex;
-	flex-wrap: wrap;
-	justify-content: space-between;
-	padding: 50px 250px 50px 100px;
-}*/
 .practice__card {
-  width: /*250px*/ calc(55.4% / 3 - 40px / 3);
+  width: 250px; /* calc(55.3% / 3 - 40px / 3);*/
   height: 300px;
   box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
   background-color: white;
@@ -215,31 +205,20 @@ table th {
   display: block;
   width: 400px;
 }
-.recruit__img {
-  width: 720px;
-  position: relative;
-  right: 10px;
-  top: 150px;
-}
-.interview__img {
-  width: 720px;
-  position: relative;
-  left: 704px;
-  top: -172px;
-}
-.saiyou {
+
+.recruit__txt {
   color: gainsboro;
   display: block;
   position: absolute;
-  top: 2550px;
+  top: 2500px;
   left: 270px;
   font-size: 40px;
 }
-.syain {
+.interview__txt {
   color: gainsboro;
   display: block;
   position: absolute;
-  top: 2550px;
+  top: 2500px;
   left: 950px;
   font-size: 40px;
 }
@@ -309,7 +288,7 @@ input:focus{
   background-color: rgb(180, 92, 143);
   left: 300px;
   height: 100px;
-  top: -183px;
+  top: -182px;
 }
 .sbox3 {
   position: relative;
@@ -374,7 +353,7 @@ input:focus{
   color: #8b00be;
   font-family: "Ceviche One", cursive;
   left: 400px;
-  top: 1335px;
+  top: 1350px;
 }
 .blog {
   text-align: left;
@@ -412,4 +391,17 @@ input:focus{
   position: relative;
   left: 360px;
   top: 100px;
+}
+.recruit-and-interview {
+  width: 100%;
+  display: flex;
+}
+
+.recruit__img {
+  width: 108.5%;
+  margin-top: 120px;
+}
+.interview__img {
+  width: 108.5%;
+  margin-top: 120px;
 }
